@@ -1,3 +1,5 @@
+> **NOTE** This is a reupload from mrq's https://git.ecker.tech/mrq/bitsandbytes-windows
+
 # BitsAndBytes 0.3.5
 
 Precompiled binaries for Windows, sourced from [here](https://github.com/kohya-ss/sd-scripts/tree/main/bitsandbytes_windows).
